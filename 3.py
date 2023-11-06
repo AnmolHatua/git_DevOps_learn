@@ -1,0 +1,1 @@
+print('ANMOL is bad')
